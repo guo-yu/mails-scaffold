@@ -1,0 +1,22 @@
+{
+  "name": "mails-theme-new",
+  "version": "0.0.1",
+  "description": "theme description",
+  "main": "index.js",
+  "author": "author <author email>",
+  "view engine": "swig",
+  "license": "MIT",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "mail",
+    "mails",
+    "email",
+    "theme
+    "
+  ],
+  "dependencies": {
+    "swig": "*"
+  }
+}
